@@ -226,6 +226,13 @@
    type: school
    long: 21.011739
    lat: 52.218887
+ - name: Technical Educational Institute of Central Macedonia
+   type: school
+   description: MSc in Robotics, Dpt of Informatics Engineering
+   long: 23.555339
+   lat: 41.074810
+   link: http://robotics.teicm.gr/
+   address: Terma Magnesias, Serres, Greece
  - name: "Technische Universit\xE4t M\xFCnchen"
    type: school
    long: 11.568197
